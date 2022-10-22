@@ -14,7 +14,6 @@
 
 * 📍 Amiens, France
 * 👾 Developer
-* 👨‍💻 Working for Anime Mon Web
 
 # Technical part 🔧
 
